@@ -1,4 +1,4 @@
-Greetings to everyone, I am a novice programmer and at the moment 
+Hola. I am a novice programmer and at the moment 
 I am a developer of bots for the Discord. 👋
 
 📇 I have too many different plans for the future,
