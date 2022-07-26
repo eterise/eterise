@@ -6,8 +6,7 @@ I'm a 15yo frontend developer based in Moscow, Russia. I love to create delightf
 
 <p>Stay in touch with me:</p>
 <p>
-<a href="mailto:blazej@wodecki.dev"><img src="https://img.shields.io/badge/mail-1DA1F2?style=for-the-badge&logo=icloud&logoColor=white"/></a>
-<a href="https://discordapp.com/users/224978978362884096/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discordapp.com/users/921397251446808616/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/PERSONAL page (soon)-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
