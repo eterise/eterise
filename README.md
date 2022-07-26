@@ -1,14 +1,3 @@
 # 👋 Hola. 
-## In this MD file, you can learn some useful (maybe) information about me.
+![alt text](https://camo.githubusercontent.com/fd961e8de8a74e2265b1f236bf9a40594e3d24aeb6b1e95a5e92f74151104f15/68747470733a2f2f692e696d6775722e636f6d2f754e534d6d4f6c2e706e67)
 ### My activities for now.
-### 🌱 JavaScript,
-#### For now, i learn a programming language, exactly a JavaScript.
-
-### 🇬🇧 English,
-#### Yes, for this moment i also learn a english language, because i am from Russia. And this language will become very useful for me. (Maybe, there is some errors, sorry for it, if this is truth.)
-
-### 🇫🇷 Maybe French,
-#### For my future live i want to learn a french language, because i very love France and in future i want to live there very much.
-
-
-### And...👍 This is all about the information I wanted to tell you. I'm glad you like it)))
