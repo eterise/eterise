@@ -6,8 +6,8 @@ I'm a 15yo junior fullstack developer based in Moscow, Russia. I love to create 
 
 <p>Maybe useful links for you:</p>
 <p>
-<a href="https://discordapp.com/users/921397251446808616/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://t.me/eterise"><img src="https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+<a href="https://discordapp.com/users/921397251446808616/"><img src="https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://t.me/eterise"><img src="https://img.shields.io/badge/Telegram-090909?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 <a href="https://github.com/eternityhost"><img src="https://img.shields.io/badge/PERSONAL page (soon)-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
