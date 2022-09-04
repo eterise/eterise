@@ -2,7 +2,7 @@
 
 ## 🙋 Hola!
 
-I'm a 15yo junior fullstack developer based in Moscow, Russia. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js).
+I'm a 15yo junior fullstack developer. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js).
 
 <p>Maybe useful links for you:</p>
 <p>
