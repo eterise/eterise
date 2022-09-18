@@ -4,6 +4,8 @@
 
 I'm a 15yo junior fullstack developer. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js).
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/921397251446808616)](https://discord.com/users/921397251446808616)
+
 <p>Maybe useful links for you:</p>
 <p>
 <a href="https://discordapp.com/users/921397251446808616/"><img src="https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=white" /></a>
