@@ -17,7 +17,6 @@ I'm a 15yo junior fullstack developer. I love to create delightful, unconvention
 
 # Github Stats
 ![GitHub](https://github-readme-stats.vercel.app/api?username=eterise&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eterise&theme=merko)](https://github.com/eterise/github-readme-stats)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/921397251446808616)](https://discord.com/users/921397251446808616)
 
