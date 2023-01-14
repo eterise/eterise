@@ -16,9 +16,6 @@ I'm a 15yo junior fullstack developer. I love to create delightful, unconvention
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
 
-# Github Stats
-![GitHub](https://github-readme-stats.vercel.app/api?username=eterise&show_icons=true&theme=merko)
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/921397251446808616)](https://discord.com/users/921397251446808616)
 
 
