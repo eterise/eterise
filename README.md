@@ -2,9 +2,6 @@
 
 I'm a 15yo junior fullstack developer. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js).
 
-# My projects is 🌿
-* Deru — main bot that written in typescript and used with discord.js.
-
 # Languages and Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
