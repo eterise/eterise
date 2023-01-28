@@ -6,6 +6,7 @@ I'm a 15yo junior fullstack developer. I love to create delightful, unconvention
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
+![Next](https://shields.io/badge/-Next-090909?style=for-the-badge&logo=next)
 ![React](https://shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![HTML](https://shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=2966c2)
