@@ -1,6 +1,6 @@
 ## 🙋 Bonjour!
 
-I'm a 15yo junior fullstack developer. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js).
+I'm a 15 years old Junior Full-Stack developer. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js and etc).
 
 # Languages and Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
