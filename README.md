@@ -17,5 +17,7 @@ I'm a 15 years old Junior Full-Stack developer. I love to create delightful, unc
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/921397251446808616)](https://discord.com/users/921397251446808616)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6TZpfxPa5wHaLiVOqDaGap?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
