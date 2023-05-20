@@ -8,7 +8,8 @@
   </a>
 </p>
 
-🔹 I'm a 15 years junior Back-end Engineer. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js and etc..).
+##I'm a 15 years junior Back-end Engineer. 
+#I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js and etc..).
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/921397251446808616)](https://discord.com/users/921397251446808616)
 
