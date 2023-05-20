@@ -1,5 +1,6 @@
 ## 🙋 Bonjour!
 
+## I work with that languages and tools 
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,nodejs,deno,rust,react,solidjs,svelte,vue,nextjs,tailwindcss,prisma,docker,linux" alt="TypeScript, Node.js, Deno, Rust, React, Solid, Svelte, Vue, Next.js, Tailwind, Prisma, Docker, Linux" />
