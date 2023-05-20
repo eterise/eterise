@@ -2,7 +2,7 @@
 And Bonjour, Hola, Hallo!
 
 I'm a 15 years junior Back-end Engineer. 
-I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js and etc..).
+I love to create delightful, unconventional applications in back-end and a little bit in front-end.
 
 ## I work with that languages and tools 
 <p align="center">
