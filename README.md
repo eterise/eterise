@@ -1,5 +1,11 @@
 ## 🙋 Bonjour!
 
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,deno,rust,react,solidjs,svelte,vue,nextjs,tailwindcss,prisma,docker,linux" alt="TypeScript, Node.js, Deno, Rust, React, Solid, Svelte, Vue, Next.js, Tailwind, Prisma, Docker, Linux" />
+  </a>
+</p>
+
 I'm a 15 years old Junior Full-Stack developer. I love to create delightful, unconventional and cutting-edge (web) apps, concerned also in backend (node.js and etc).
 
 # Languages and Tools
