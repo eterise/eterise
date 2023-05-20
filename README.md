@@ -4,7 +4,7 @@
 ## I work with that languages and tools 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nest.js,react,nextjs,tailwindcss,prisma" alt="TypeScript, Node.js, Nest.js, React, Next.js, Tailwind, Prisma" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,tailwindcss,prismaa" alt="TypeScript, Node.js, Nest.js, React, Next.js, Tailwind, Prisma" />
   </a>
 </p>
 
