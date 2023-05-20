@@ -1,4 +1,4 @@
-## 🙋 Bonjour!
+## 🙋 Hello! | Hola! | Hallo! | Bonjour!
 
 ## I work with that languages and tools 
 <p align="center">
