@@ -1,7 +1,7 @@
 ## 🙋 Hello!
 And Bonjour, Hola, Hallo!
 
-I'm a 15 years junior Back-end Engineer. 
+I'm a Backend Engineer. 
 I love to create delightful, unconventional applications in back-end and a little bit in front-end.
 
 ## I work with that languages and tools 
