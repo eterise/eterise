@@ -7,7 +7,7 @@ I love to create delightful, unconventional applications in back-end and a littl
 ## I work with that languages and tools 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,mongodb,prisma,typeorm" alt="TypeScript, Node.js, Nest.js, MongoDB, Prisma, Typeorm" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,postgres,mongodb,prisma,docker,postman" alt="TypeScript, Node.js, Nest.js, MongoDB, Prisma, Typeorm" />
   </a>
 </p>
 
