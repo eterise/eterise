@@ -1,6 +1,4 @@
-## 🙋 Hello!
-And Bonjour, Hola, Hallo!
-
+## 🙋 Hello.
 I'm a Backend Engineer. 
 I love to create delightful, unconventional applications in back-end and a little bit in front-end.
 
