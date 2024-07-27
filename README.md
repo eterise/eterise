@@ -1,6 +1,5 @@
 ## 🙋 Hello.
-I'm a Backend Engineer. 
-I love to create delightful, unconventional applications in back-end and a little bit in front-end.
+I'm a Nodejs Backend developer. 
 
 ## I work with that languages and tools 
 <p align="center">
